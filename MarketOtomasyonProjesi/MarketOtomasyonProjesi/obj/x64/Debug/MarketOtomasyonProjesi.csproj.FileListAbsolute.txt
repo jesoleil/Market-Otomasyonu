@@ -1,0 +1,102 @@
+D:\ders\Nesneye Yönelik Programlama\MarketOtomasyonProjesi\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.Form1.resources
+D:\ders\Nesneye Yönelik Programlama\MarketOtomasyonProjesi\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.Properties.Resources.resources
+D:\ders\Nesneye Yönelik Programlama\MarketOtomasyonProjesi\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.csproj.GenerateResource.cache
+D:\ders\Nesneye Yönelik Programlama\MarketOtomasyonProjesi\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.csproj.CoreCompileInputs.cache
+D:\ders\Nesneye Yönelik Programlama\MarketOtomasyonProjesi\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.csprojAssemblyReference.cache
+D:\ders\Nesneye Yönelik Programlama\MarketOtomasyonProjesi\MarketOtomasyonProjesi\bin\x64\Debug\MarketOtomasyonProjesi.exe.config
+D:\ders\Nesneye Yönelik Programlama\MarketOtomasyonProjesi\MarketOtomasyonProjesi\bin\x64\Debug\MarketOtomasyonProjesi.exe
+D:\ders\Nesneye Yönelik Programlama\MarketOtomasyonProjesi\MarketOtomasyonProjesi\bin\x64\Debug\MarketOtomasyonProjesi.pdb
+D:\ders\Nesneye Yönelik Programlama\MarketOtomasyonProjesi\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.exe
+D:\ders\Nesneye Yönelik Programlama\MarketOtomasyonProjesi\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.pdb
+D:\ders\Nesneye Yönelik Programlama\MarketOtomasyonProjesi\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.yoneticigiris.resources
+D:\ders\Nesneye Yönelik Programlama\MarketOtomasyonProjesi\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.calisanlarform.resources
+C:\Users\Aysim Taneli\Desktop\MarketOtomasyonProjesi\MarketOtomasyonProjesi\bin\x64\Debug\MarketOtomasyonProjesi.exe.config
+C:\Users\Aysim Taneli\Desktop\MarketOtomasyonProjesi\MarketOtomasyonProjesi\bin\x64\Debug\MarketOtomasyonProjesi.exe
+C:\Users\Aysim Taneli\Desktop\MarketOtomasyonProjesi\MarketOtomasyonProjesi\bin\x64\Debug\MarketOtomasyonProjesi.pdb
+C:\Users\Aysim Taneli\Desktop\MarketOtomasyonProjesi\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.csprojAssemblyReference.cache
+C:\Users\Aysim Taneli\Desktop\MarketOtomasyonProjesi\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.calisanlarform.resources
+C:\Users\Aysim Taneli\Desktop\MarketOtomasyonProjesi\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.Properties.Resources.resources
+C:\Users\Aysim Taneli\Desktop\MarketOtomasyonProjesi\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.urunlerform.resources
+C:\Users\Aysim Taneli\Desktop\MarketOtomasyonProjesi\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.csproj.GenerateResource.cache
+C:\Users\Aysim Taneli\Desktop\MarketOtomasyonProjesi\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Aysim Taneli\Desktop\MarketOtomasyonProjesi\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.exe
+C:\Users\Aysim Taneli\Desktop\MarketOtomasyonProjesi\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.pdb
+C:\Users\Aysim Taneli\Desktop\MarketOtomasyonProjesi\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.giris.resources
+C:\Users\Aysim Taneli\Desktop\MarketOtomasyonProjesi\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.tedarikcilerform.resources
+C:\Users\Aysim Taneli\Desktop\MarketOtomasyonProjesi\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.subelerform.resources
+C:\Users\Aysim Taneli\Desktop\MarketOtomasyonProjesi\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.anasayfa.resources
+D:\Yeni klasör\MarketOtomasyonProjesi\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.csprojAssemblyReference.cache
+D:\Yeni klasör\MarketOtomasyonProjesi\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.exe
+D:\Yeni klasör\MarketOtomasyonProjesi\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.pdb
+D:\Yeni klasör\MarketOtomasyonProjesi\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.calisanlarform.resources
+D:\Yeni klasör\MarketOtomasyonProjesi\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.giris.resources
+D:\Yeni klasör\MarketOtomasyonProjesi\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.Properties.Resources.resources
+D:\Yeni klasör\MarketOtomasyonProjesi\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.subelerform.resources
+D:\Yeni klasör\MarketOtomasyonProjesi\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.tedarikcilerform.resources
+D:\Yeni klasör\MarketOtomasyonProjesi\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.urunlerform.resources
+D:\Yeni klasör\MarketOtomasyonProjesi\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.anasayfa.resources
+D:\Yeni klasör\MarketOtomasyonProjesi\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.csproj.GenerateResource.cache
+D:\Yeni klasör\MarketOtomasyonProjesi\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.csproj.CoreCompileInputs.cache
+D:\Yeni klasör\MarketOtomasyonProjesi\MarketOtomasyonProjesi\bin\x64\Debug\MarketOtomasyonProjesi.exe.config
+D:\Yeni klasör\MarketOtomasyonProjesi\MarketOtomasyonProjesi\bin\x64\Debug\MarketOtomasyonProjesi.exe
+D:\Yeni klasör\MarketOtomasyonProjesi\MarketOtomasyonProjesi\bin\x64\Debug\MarketOtomasyonProjesi.pdb
+C:\Users\Aysim Taneli\Desktop\MarketOtomasyonProjesi(maaszamtamamlanmadı)\MarketOtomasyonProjesi\bin\x64\Debug\MarketOtomasyonProjesi.exe.config
+C:\Users\Aysim Taneli\Desktop\MarketOtomasyonProjesi(maaszamtamamlanmadı)\MarketOtomasyonProjesi\bin\x64\Debug\MarketOtomasyonProjesi.exe
+C:\Users\Aysim Taneli\Desktop\MarketOtomasyonProjesi(maaszamtamamlanmadı)\MarketOtomasyonProjesi\bin\x64\Debug\MarketOtomasyonProjesi.pdb
+C:\Users\Aysim Taneli\Desktop\MarketOtomasyonProjesi(maaszamtamamlanmadı)\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.csprojAssemblyReference.cache
+C:\Users\Aysim Taneli\Desktop\MarketOtomasyonProjesi(maaszamtamamlanmadı)\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.calisanlarform.resources
+C:\Users\Aysim Taneli\Desktop\MarketOtomasyonProjesi(maaszamtamamlanmadı)\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.giris.resources
+C:\Users\Aysim Taneli\Desktop\MarketOtomasyonProjesi(maaszamtamamlanmadı)\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.Properties.Resources.resources
+C:\Users\Aysim Taneli\Desktop\MarketOtomasyonProjesi(maaszamtamamlanmadı)\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.subelerform.resources
+C:\Users\Aysim Taneli\Desktop\MarketOtomasyonProjesi(maaszamtamamlanmadı)\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.tedarikcilerform.resources
+C:\Users\Aysim Taneli\Desktop\MarketOtomasyonProjesi(maaszamtamamlanmadı)\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.urunlerform.resources
+C:\Users\Aysim Taneli\Desktop\MarketOtomasyonProjesi(maaszamtamamlanmadı)\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.anasayfa.resources
+C:\Users\Aysim Taneli\Desktop\MarketOtomasyonProjesi(maaszamtamamlanmadı)\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.csproj.GenerateResource.cache
+C:\Users\Aysim Taneli\Desktop\MarketOtomasyonProjesi(maaszamtamamlanmadı)\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Aysim Taneli\Desktop\MarketOtomasyonProjesi(maaszamtamamlanmadı)\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.exe
+C:\Users\Aysim Taneli\Desktop\MarketOtomasyonProjesi(maaszamtamamlanmadı)\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.pdb
+D:\Yeni klasör\MarketOtomasyonProjesi(maaszamtamamlanmadı)\MarketOtomasyonProjesi\bin\x64\Debug\MarketOtomasyonProjesi.exe.config
+D:\Yeni klasör\MarketOtomasyonProjesi(maaszamtamamlanmadı)\MarketOtomasyonProjesi\bin\x64\Debug\MarketOtomasyonProjesi.exe
+D:\Yeni klasör\MarketOtomasyonProjesi(maaszamtamamlanmadı)\MarketOtomasyonProjesi\bin\x64\Debug\MarketOtomasyonProjesi.pdb
+D:\Yeni klasör\MarketOtomasyonProjesi(maaszamtamamlanmadı)\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.csprojAssemblyReference.cache
+D:\Yeni klasör\MarketOtomasyonProjesi(maaszamtamamlanmadı)\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.calisanlarform.resources
+D:\Yeni klasör\MarketOtomasyonProjesi(maaszamtamamlanmadı)\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.giris.resources
+D:\Yeni klasör\MarketOtomasyonProjesi(maaszamtamamlanmadı)\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.Properties.Resources.resources
+D:\Yeni klasör\MarketOtomasyonProjesi(maaszamtamamlanmadı)\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.subelerform.resources
+D:\Yeni klasör\MarketOtomasyonProjesi(maaszamtamamlanmadı)\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.tedarikcilerform.resources
+D:\Yeni klasör\MarketOtomasyonProjesi(maaszamtamamlanmadı)\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.urunlerform.resources
+D:\Yeni klasör\MarketOtomasyonProjesi(maaszamtamamlanmadı)\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.anasayfa.resources
+D:\Yeni klasör\MarketOtomasyonProjesi(maaszamtamamlanmadı)\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.csproj.GenerateResource.cache
+D:\Yeni klasör\MarketOtomasyonProjesi(maaszamtamamlanmadı)\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.csproj.CoreCompileInputs.cache
+D:\Yeni klasör\MarketOtomasyonProjesi(maaszamtamamlanmadı)\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.exe
+D:\Yeni klasör\MarketOtomasyonProjesi(maaszamtamamlanmadı)\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.pdb
+C:\Users\Aysim Taneli\Desktop\MarketOtomasyonProjesi-EnSonHal\MarketOtomasyonProjesi\bin\x64\Debug\MarketOtomasyonProjesi.exe.config
+C:\Users\Aysim Taneli\Desktop\MarketOtomasyonProjesi-EnSonHal\MarketOtomasyonProjesi\bin\x64\Debug\MarketOtomasyonProjesi.exe
+C:\Users\Aysim Taneli\Desktop\MarketOtomasyonProjesi-EnSonHal\MarketOtomasyonProjesi\bin\x64\Debug\MarketOtomasyonProjesi.pdb
+C:\Users\Aysim Taneli\Desktop\MarketOtomasyonProjesi-EnSonHal\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.csprojAssemblyReference.cache
+C:\Users\Aysim Taneli\Desktop\MarketOtomasyonProjesi-EnSonHal\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.calisanlarform.resources
+C:\Users\Aysim Taneli\Desktop\MarketOtomasyonProjesi-EnSonHal\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.giris.resources
+C:\Users\Aysim Taneli\Desktop\MarketOtomasyonProjesi-EnSonHal\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.Properties.Resources.resources
+C:\Users\Aysim Taneli\Desktop\MarketOtomasyonProjesi-EnSonHal\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.subelerform.resources
+C:\Users\Aysim Taneli\Desktop\MarketOtomasyonProjesi-EnSonHal\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.tedarikcilerform.resources
+C:\Users\Aysim Taneli\Desktop\MarketOtomasyonProjesi-EnSonHal\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.urunlerform.resources
+C:\Users\Aysim Taneli\Desktop\MarketOtomasyonProjesi-EnSonHal\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.anasayfa.resources
+C:\Users\Aysim Taneli\Desktop\MarketOtomasyonProjesi-EnSonHal\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.csproj.GenerateResource.cache
+C:\Users\Aysim Taneli\Desktop\MarketOtomasyonProjesi-EnSonHal\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Aysim Taneli\Desktop\MarketOtomasyonProjesi-EnSonHal\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.exe
+C:\Users\Aysim Taneli\Desktop\MarketOtomasyonProjesi-EnSonHal\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.pdb
+D:\Yeni klasör\MarketOtomasyonProjesi-EnSonHal\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.csprojAssemblyReference.cache
+D:\Yeni klasör\MarketOtomasyonProjesi-EnSonHal\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.exe
+D:\Yeni klasör\MarketOtomasyonProjesi-EnSonHal\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.pdb
+D:\Yeni klasör\MarketOtomasyonProjesi-EnSonHal\MarketOtomasyonProjesi\bin\x64\Debug\MarketOtomasyonProjesi.exe.config
+D:\Yeni klasör\MarketOtomasyonProjesi-EnSonHal\MarketOtomasyonProjesi\bin\x64\Debug\MarketOtomasyonProjesi.exe
+D:\Yeni klasör\MarketOtomasyonProjesi-EnSonHal\MarketOtomasyonProjesi\bin\x64\Debug\MarketOtomasyonProjesi.pdb
+D:\Yeni klasör\MarketOtomasyonProjesi-EnSonHal\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.calisanlarform.resources
+D:\Yeni klasör\MarketOtomasyonProjesi-EnSonHal\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.giris.resources
+D:\Yeni klasör\MarketOtomasyonProjesi-EnSonHal\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.Properties.Resources.resources
+D:\Yeni klasör\MarketOtomasyonProjesi-EnSonHal\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.subelerform.resources
+D:\Yeni klasör\MarketOtomasyonProjesi-EnSonHal\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.tedarikcilerform.resources
+D:\Yeni klasör\MarketOtomasyonProjesi-EnSonHal\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.urunlerform.resources
+D:\Yeni klasör\MarketOtomasyonProjesi-EnSonHal\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.anasayfa.resources
+D:\Yeni klasör\MarketOtomasyonProjesi-EnSonHal\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.csproj.GenerateResource.cache
+D:\Yeni klasör\MarketOtomasyonProjesi-EnSonHal\MarketOtomasyonProjesi\obj\x64\Debug\MarketOtomasyonProjesi.csproj.CoreCompileInputs.cache

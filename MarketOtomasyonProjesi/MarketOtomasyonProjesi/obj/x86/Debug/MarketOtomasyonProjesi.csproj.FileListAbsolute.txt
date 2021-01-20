@@ -1,0 +1,5 @@
+D:\ders\Nesneye Yönelik Programlama\MarketOtomasyonProjesi\MarketOtomasyonProjesi\obj\x86\Debug\MarketOtomasyonProjesi.csprojAssemblyReference.cache
+D:\ders\Nesneye Yönelik Programlama\MarketOtomasyonProjesi\MarketOtomasyonProjesi\obj\x86\Debug\MarketOtomasyonProjesi.Form1.resources
+D:\ders\Nesneye Yönelik Programlama\MarketOtomasyonProjesi\MarketOtomasyonProjesi\obj\x86\Debug\MarketOtomasyonProjesi.Properties.Resources.resources
+D:\ders\Nesneye Yönelik Programlama\MarketOtomasyonProjesi\MarketOtomasyonProjesi\obj\x86\Debug\MarketOtomasyonProjesi.csproj.GenerateResource.cache
+D:\ders\Nesneye Yönelik Programlama\MarketOtomasyonProjesi\MarketOtomasyonProjesi\obj\x86\Debug\MarketOtomasyonProjesi.csproj.CoreCompileInputs.cache
